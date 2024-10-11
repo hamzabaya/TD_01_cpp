@@ -5,12 +5,16 @@ Naviguer vers le dossier contenant les fichiers sources (il faut que les fichier
 
 Pour l'exercice 1 :
 
-Quest 1 : Dans le repértoire 'Exercice 1/Ques 1' : entrer la commande : 'g++ main.cpp' pour compiler et './a.out' pour exécuter
-Quest 2 : Dans le repértoire 'Ques 2' : entrer la commande : 'g++ main.cpp print.cpp' pour compiler et './a.out' pour exécuter
-Quest 4 : Dans le repértoire 'Ques 4' : entrer la commande : 'g++ main.cpp my_class.cpp' pour compiler et './a.out' pour exécuter
+Quest 1 : Dans le repértoire 'Exercice 1/Ques 1' : entrer la commande : 'g++ main.cpp' pour compiler et './a.out' pour exécuter \
+\
+Quest 2 : Dans le repértoire 'Ques 2' : entrer la commande : 'g++ main.cpp print.cpp' pour compiler et './a.out' pour exécuter \
+\
+Quest 4 : Dans le repértoire 'Ques 4' : entrer la commande : 'g++ main.cpp my_class.cpp' pour compiler et './a.out' pour exécuter 
 
-
+\
+\
 Pour l'exercice 2 :
+
 
 Dans le repértoire 'Exercice 2' : entrer la commande : 'g++ Main.cpp Complex2D.cpp' pour compiler et './a.out' pour exécuter
 
