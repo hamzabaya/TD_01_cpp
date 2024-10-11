@@ -3,6 +3,7 @@ Exercices du TD_01 C++
 
 Naviguer vers le dossier contenant les fichiers sources (il faut que les fichiers header soient dans le même dossier que les fichiers source) : entrer la commande ' cd  "Chemin/vers/le/dossier/contenant/les/fichiers/sources" '
 
+\
 Pour l'exercice 1 :
 
 Quest 1 : Dans le repértoire 'Exercice 1/Ques 1' : entrer la commande : 'g++ main.cpp' pour compiler et './a.out' pour exécuter \
